@@ -1,7 +1,7 @@
 clear;
 clc;
 
-addpath('tool/', 'update/', 'user/', 'dataset/');
+addpath('tool/', 'update/', 'dataset/');
 
 load cornell.mat
 X{1} = X1; 
